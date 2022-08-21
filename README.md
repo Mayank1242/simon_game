@@ -1,2 +1,3 @@
 # simon_game
 A game using JavaScript....
+**Play in PC
